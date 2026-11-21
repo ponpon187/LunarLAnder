@@ -1,0 +1,6 @@
+{
+  "name": "LUNAR LANDER 2.0",
+  "description": "Трехмерный симулятор посадки на сферическую Луну с PBR-текстурами, физикой амортизаторов, RCS-двигателями и телеметрией.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
